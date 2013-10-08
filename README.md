@@ -10,7 +10,6 @@ export GOPATH=/path/to/your/go/workspace
 Go get ssh_chat
 ```
 go get github.com/kdorland/ssh_chat
-
 ```
 
 Create a private key for the server
