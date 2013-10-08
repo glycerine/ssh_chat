@@ -20,6 +20,6 @@ ssh-keygen -t dsa -f privkey
 
 Start up server
 ```
-./ssh_cat
+./ssh_chat
 ```
 Server is now listening for ssh connections on port 8765.
