@@ -9,8 +9,8 @@ import (
 	"os/signal"
 	"path/filepath"
 
-	sshServer "github.com/kdorland/voyage/ssh"
-	"github.com/kdorland/voyage/text"
+	sshServer "github.com/kdorland/ssh_chat/ssh"
+	"github.com/kdorland/ssh_chat/text"
 
 	"code.google.com/p/go.crypto/ssh"
 	"code.google.com/p/go.crypto/ssh/terminal"
