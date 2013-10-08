@@ -4,7 +4,7 @@ ssh_chat
 Set your GOPATH correctly
 
 ```
-export GOPATH=/path/to/your/ssh_chat
+export GOPATH=/path/to/your/go/workspace
 ```
 
 Go get ssh_chat
